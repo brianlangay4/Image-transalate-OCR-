@@ -86,7 +86,7 @@ fell free to use its free. ☕
 
 Make sure to replace `'path_to_your_image.png'` with the actual path to your image file before running the script.
 ```
-Debuging 
+## Debuging 
 
 incase of unsual smooth running 
 1.install tesseract-ocr on your machine
