@@ -85,7 +85,7 @@ fell free to use its free. ☕
 ```
 
 Make sure to replace `'path_to_your_image.png'` with the actual path to your image file before running the script.
-
+```
 Debuging 
 
 incase of unsual smooth running 
@@ -99,7 +99,7 @@ link to official tesseract-ocr https://tesseract-ocr.github.io/tessdoc/Downloads
 
 4.make sure the image path is in full path directory formart because your accessing the python script outside (full path)
 
-
+```
 
 
 
