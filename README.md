@@ -99,7 +99,6 @@ link to official tesseract-ocr https://tesseract-ocr.github.io/tessdoc/Downloads
 
 4.make sure the image path is in full path directory formart because your accessing the python script outside (full path)
 
-```
 
 
 
