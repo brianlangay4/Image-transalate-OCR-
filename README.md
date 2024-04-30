@@ -92,16 +92,16 @@ Make sure to replace `'path_to_your_image.png'` with the actual path to your ima
 ```
 ## Debuging 💥
 
-incase of unsual smooth running 
-1.install tesseract-ocr on your machine
+#### incase of unsual smooth running 
+-1.install tesseract-ocr on your machine
 
 link to official tesseract-ocr https://tesseract-ocr.github.io/tessdoc/Downloads.html
 
-2.open cmd and step to tesseract-ocr directory
+-2.open cmd and step to tesseract-ocr directory
 
-3.excute python/python3 /path to pythonScript.py
+-3.excute python/python3 /path to pythonScript.py
 
-4.make sure the image path is in full path directory formart because your accessing the python script outside (full path)
+-4.make sure the image path is in full path directory formart because your accessing the python script outside (full path)
 
 
 
