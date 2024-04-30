@@ -1,5 +1,5 @@
 
-# OCR Text Translator
+# OCR Text Translator 🐍
 
 ![Screenshot 2024-04-30 190811](https://github.com/brianlangay4/Image-transalate-OCR-/assets/67788456/2d922feb-c7d9-4476-837e-b0ff00591643)
 
