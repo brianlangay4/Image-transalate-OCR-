@@ -1,6 +1,10 @@
 
 # OCR Text Translator 🐍
 
+the script will translate any given image by ocr getting text from the image and translate the texts
+view https://tesseract-ocr.github.io for more info about languaes support.
+here is sample Demo.☕
+
 ![Screenshot 2024-04-30 190811](https://github.com/brianlangay4/Image-transalate-OCR-/assets/67788456/2d922feb-c7d9-4476-837e-b0ff00591643)
 
 
